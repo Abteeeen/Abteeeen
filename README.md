@@ -95,7 +95,7 @@ I don't just analyze data; I analyze *people* and *processes*.
 
 <div align="center">
   <i>Let's connect and build the future of Work!</i><br>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
+  <a href="https://linkedin.com/in/abhiram-anil-092946223">
     <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
