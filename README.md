@@ -19,7 +19,8 @@
 
 I am a **Data Scientist** and **HR Analyst** bridging the gap between human capital and artificial intelligence. I specialize in **People Analytics**, using data to solve recruitment and retention challenges, while building **AI Agents** to automate the workflows that follow.
 
-* 🎓 **Alumni:** Amrita Vishwa Vidyapeetham.
+* 🎓 **Education:** MSc Datascience with logistics and supply chain management 
+* 🎯 **Alumni:** Amrita Vishwa Vidyapeetham.
 * 🔭 **Currently working on:** Building autonomous HR Recruitment Agents using **n8n** & **LangChain**.
 * 💡 **Superpower:** Translating complex SaaS metrics and HR data into actionable business strategies.
 * 🎨 **Creative Side:** I experiment with Generative AI to recreate retro 90s aesthetics.
