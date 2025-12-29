@@ -82,7 +82,7 @@ I don't just analyze data; I analyze *people* and *processes*.
 
 #### 🤖 **[AI Recruitment Agent (n8n)]**
 > *Automated Resume Screening & Candidate Evaluation*
-> A complete workflow that parses resumes, evaluates them against JDs using GPT-4, and filters candidates based on location and skills.
+> A complete workflow that parses resumes, evaluates them against JDs using GPT-4, and filters candidates based on location and skill.
 >
 > ![n8n](https://img.shields.io/badge/n8n-Workflow-ff4d4d) ![AI](https://img.shields.io/badge/AI-Agent-blue)
 
